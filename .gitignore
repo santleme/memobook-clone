@@ -1,0 +1,11 @@
+.state/
+.terraform/
+node_modules/
+__pycache__/
+*.pyc
+*.key
+.env*
+*.tfstate*
+*.tfplan
+*.tfvars
+.DS_Store
